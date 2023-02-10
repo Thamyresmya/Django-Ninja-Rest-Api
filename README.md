@@ -9,8 +9,9 @@ Projeto desenvolvido em Pyhton e Djando-Ninja junto com o Caio da Pythonando.
 <br>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Imagens">Layouts</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <br>
@@ -29,6 +30,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Django-Ninja
 - Postman
 - Git e Github
+
+<br>
+
+## 💻 Projeto
+
+Para a uso desse projeto utilize o venv.
 
 <br>
 
