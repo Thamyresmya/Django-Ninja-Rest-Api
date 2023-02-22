@@ -49,7 +49,7 @@ Layout da tela para listar por Id:
 Layout da tela de cadastro atraves do Postman:
 <img alt="postman" src="img/cadastro_postman.png" width="100%">
 
-Layout da tela do banco de dados:
+Layout da tela do Django-Admin, banco de dados:
 <img alt="Dados" src="img/dados.png" width="100%">
 
 Layout da tela de consulta dos livros cadastrados:
@@ -59,7 +59,7 @@ Layout da tela da documentação gerado pelo Django-Ninja:
 <img alt="doc" src="img/doc.png" width="100%">
 
 <p align= "center">
-  <img width="100%" height="230" src="img/Rest_Api-Django-Ninja.gif"></img>
+  <img width="100%" height="330" src="img/Rest_Api-Django-Ninja.gif"></img>
 </p>
 
 <br>
